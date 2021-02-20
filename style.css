@@ -1,0 +1,27 @@
+.navbar .container-fluid .image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgb(238, 234, 234);
+}
+header nav.navbar {
+    background-color: rgb(200, 210, 238);
+}
+h1 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+body { 
+    background-image: url("background.jpg");
+    /* background-image: url("./assets/gif-christmas-tree.gif"); */
+} 
+#main-container {
+    margin-top: 15%;
+}
+#social {
+    background-color:  rgb(200, 210, 238);
+}
+.skills {
+    font-size: 25px;
+    font-weight: bolder;
+}
