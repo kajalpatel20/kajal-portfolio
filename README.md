@@ -1,87 +1,63 @@
-# Career Connection
+ Kajal's Portfolio
 
 
-Now that you've had some practice with APIs and have a project to share, you should update your portfolio page and other materials to build toward being employer-competitive.
+Responsive Portfolio built using Bootstrap
 
-Part of being a web developer means being a part of a community. Having a place to share your projects is necessary if you're applying for jobs, but it’s also critical on your journey as a developer.
+This project required to build of a responsive portfolio website by using Bootstrap and it's grid system. The portfolio  have 3 functional pages: an 'About Me'/home page, a Portfolio page and a Contact page.
 
-## Portfolio
-
-One of the requirements for this project is that you add it to your portfolio. You should also add one or two of your Challenge assignments that you are proud of. Remember that the solution code that you received for your Module 2 Challenge gives you a professional template for a portfolio. You should also feel free to create one on your own as you complete this course.
-
-Make sure that your portfolio includes the following:
-
-* Your name
-
-* Links to your GitHub profile and LinkedIn page, as well as your email address and phone number
-
-* A link to a PDF of your resume
-
-* A list of projects, each including the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * Screenshot of the deployed application
-
-Your site should also look polished. Here are a few guidelines on what that means:
+My site looks polished. Here are a few guidelines on what that means:
 
 * Use mobile-first design.
 
-* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
+* Updated GitHub Profile.
 
-* Make sure that the font size is large enough to read and that the colors don't cause eye strain.
+* Updated LinkedIn profile.
 
-## Professional Materials
+* Click "Customized pins".
 
-You should also take time to update your professional materials, including the following:
-
-* GitHub profile
-
-* Resume
-
-* LinkedIn profile
-
-### Update Your GitHub Profile
-
-If you haven't yet, now is the time to update the following in your GitHub profile:
-
-* Profile picture
-
-* Bio
-
-* Location
-
-* Email
-
-* Link to your portfolio
-
-Employers (and potential collaborators) will look at your GitHub profile, so put your best face forward!
-
-You’ll also want to pin some repos that you want to highlight. To do this, navigate to GitHub, go to your profile, and do the following:
-
-* Click "Customize your pins".
-
-* Click the checkboxes for your project and two to three homework assignments that you would like to share.
+* Clicked the checkboxes for my project and two to three homework assignments that you would like to share.
 
 * Make sure each of these projects is deployed, and add a link to the deployed project in the README file.
 
-* Follow your classmates. They are the beginning of your professional network, and being a developer is as much about being a part of the community as it is about writing code.
+* Followed my classmates. They are the beginning of your professional network, and being a developer is as much about being a part of the community as it is about writing code.
 
-### Update Your Resume
+* A link to a PDF of your resume
 
-Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
+ Updated LinkedIn Profile
 
-### Update Your LinkedIn Profile
+Updated LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github profile and portfolio.
 
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github profile and portfolio.
+Screen Shots:
+![homework_8/kajal-portfolio](./assets/ScreenShot#4.png)
 
-### Prepare for the Technical Interview
+* The URL of the functional, deployed application for all the Projects:
+
+https://kajalpatel20.github.io/homework_1/
+
+https://kajalpatel20.github.io/Weather-Dashboard/
+
+https://kajalpatel20.github.io/Work-Day-Scheduler/
+
+https://bhavipatel21.github.io/starwarsIndex/
+
+https://kajalpatel20.github.io/Portfolio/index.html
+
+https://kajalpatel20.github.io/Portfolio/portfolio.html
+             
+https://kajalpatel20.github.io/Portfolio/contact.html
 
 
-![Career Services Online Events graphic](./assets/online-events.png)
+Deployed page URL: https://kajalpatel20.github.io/kajal-portfolio
 
-If you want to learn more about the technical interviewing process and practice algorithms in a mock interview setting, attend one of our [upcoming workshops](https://careerservicesonlineevents.splashthat.com/)!
+* The URLs of the GitHub repositories
+
+https://github.com/kajalpatel20/kajal-portfolio
+
+
+License:
+
+MIT License
+
+Copyright (c) [2020] [Kajal_Patel]
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
